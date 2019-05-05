@@ -1,2 +1,2 @@
 # BBC-website
-Current BBC website in HTML and CSS
+During my developement training, I have decided to creta a copy of BBC website in HTML and CSS.
